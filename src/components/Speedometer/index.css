@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.container {
+  background-color: #07080c;
+  color: #ffffff;
+  height: 100vh;
+  text-align: center;
+}
+.image1 {
+  width: 50%;
+}
